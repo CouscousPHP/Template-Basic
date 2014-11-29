@@ -1,0 +1,30 @@
+body {
+    font-size: 18px;
+    padding-bottom: 70px;
+}
+main {
+    margin-top: 110px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.navbar .navbar-brand {
+    font-size: 28px;
+    height: auto;
+    line-height: 50px;
+    margin-left: 20px;
+}
+
+.page-header {
+    margin-top: 0;
+}
+
+img {
+    max-width: 100%;
+    padding: 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
