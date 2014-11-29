@@ -1,4 +1,4 @@
-This template is meant as a very simple example for you to clone and create your own.
+This [Couscous](http://couscous.io) template is meant as a very simple example for you to clone and create your own.
 
 ## Screenshot
 
